@@ -14,3 +14,4 @@ CONFIG_GRUB_IMAGES=y
 #CONFIG_PACKAGE_luci-app-unishare=y
 #CONFIG_PACKAGE_luci-app-quickstart=y
 #CONFIG_PACKAGE_luci-app-kodexplorer=y
+CONFIG_PACKAGE_luci-app-ssr-plus=y
