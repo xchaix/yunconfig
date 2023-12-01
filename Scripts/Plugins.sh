@@ -13,5 +13,5 @@ git clone --depth=1 --single-branch --branch $(echo $OWRT_URL | grep -iq "lede" 
 #Open Clash
 #git clone --depth=1 --single-branch --branch "dev" https://github.com/vernesong/OpenClash.git
 #Pass Wall
-git clone --depth=1 --single-branch --branch https://github.com/kenzok8/small
-git clone --depth=1 --single-branch --branch https://github.com/kenzok8/openwrt-packages
+git clone --depth=1 --single-branch https://github.com/kenzok8/small
+git clone --depth=1 --single-branch https://github.com/kenzok8/openwrt-packages
